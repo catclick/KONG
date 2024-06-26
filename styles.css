@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* Putih */
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    background-color: #0339fc; /* Biru tua */
+    padding: 20px;
+    color: white;
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    margin: 20px 0;
+}
+
+main p {
+    color: #003366; /* Biru tua */
+}
+
+.links a {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #003366; /* Biru tua */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.links a:hover {
+    background-color: #002244; /* Biru tua lebih gelap */
+}
+
+footer {
+    background-color: #003366; /* Biru tua */
+    color: white;
+    padding: 10px;
+}
